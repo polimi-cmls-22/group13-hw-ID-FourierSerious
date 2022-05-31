@@ -8,6 +8,9 @@ Group 13 repository for the ID homework of CMLS 2022
 - Silvia Pasin
 - Natasa Popovic
 
+# POSTACCIO INVADERS
+![GUI1](https://github.com/polimi-cmls-22/group13-hw-ID-FourierSerious/blob/main/GUI1.png?raw=true)
+
 # Project description:
 
 
@@ -23,7 +26,7 @@ In order to try Postaccio Invaders, you need to:
 
 # Controls and Interface:
 
-![GUI](https://github.com/polimi-cmls-22/group13-hw-ID-FourierSerious/blob/main/GUI.jpg?raw=true)
+![GUI](https://github.com/polimi-cmls-22/group13-hw-ID-FourierSerious/blob/main/GUI.png?raw=true) 
 
 The spaceship can move freely through the interface to escape from the bullets thrown by the piano. Its movement will be done through the joystick both in its X and Y axis; however, performing these actions not only moves the ship, but also allows the user to play with other parameters of the system. When he moves on the X axis (analogX) he will control the cutoff frequency of the filter he has at that moment. Meanwhile, with the Y axis (analogY) he can change the type of filter so that, when the spaceship goes up it will correspond to a high pass filter, in the middle it will be a band pass filter and, if it is the farthest away from the piano, it will be a low pass filter. It should be noted that the frequency that is controlled with the analogX is mapped logarithmically. That is, the relationship between the range of joystick values (from 0 to 1) and the filter cutoff frequency range (from 65Hz to 523Hz), will be logarithmic in order to obtain a higher resolution in the low frequencies.
       On the other hand, through the conductivity switch sensor the user will be able to vary the oscillator waveform. He can choose between sine, saw, square, triangle and white noise while continuing to control the ship, so that he can look for a better sonority while continuing to dodge bullets, giving rise to another challenge for the player.
