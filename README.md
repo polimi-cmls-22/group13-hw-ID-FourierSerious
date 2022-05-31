@@ -12,7 +12,7 @@ Group 13 repository for the ID homework of CMLS 2022
 ![GUI1](https://github.com/polimi-cmls-22/group13-hw-ID-FourierSerious/blob/main/GUI1.png?raw=true)
 
 # Project description:
-
+POSTACCIO INVADERS is a multiplayer music video game with an interface consisting of a piano at the top, a small selection screen at the bottom and in the center the spaceship's movement space. The goal is that the player, driving the spaceship, must dodge the "bullets" launched by the keyboard, which is controlled by another player from a midi keyboard and without seeing the interface. In order to dodge the bullets, the ship will move through the interface changing the parameters that appear at the bottom, and he can also change some types of parameters through the conductivity switch sensor, making the notes played by the opposing player sound differently based on the position of the ship at each moment. The game ends the moment a bullet hits the ship.
 
 # Instructions:
 In order to try Postaccio Invaders, you need to:
