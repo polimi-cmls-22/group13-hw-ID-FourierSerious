@@ -22,6 +22,6 @@ In order to use the plugin, you need to:
 
 # Interface:
 
-![GUI]()
+![GUI](https://github.com/polimi-cmls-22/group13-hw-ID-FourierSerious/blob/main/GUI.jpg?raw=true)
 
 
